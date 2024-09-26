@@ -23,8 +23,6 @@ public class Exemplo1 {
 
 2) Matriz char que imprime o nome completo
 
-Aqui está a matriz char com seu nome completo, usando for-each para exibir os valores.
-
 public class Exemplo2 {
     public static void main(String[] args) {
         char[][] nome = {
